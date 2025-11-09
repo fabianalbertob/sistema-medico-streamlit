@@ -1,4 +1,4 @@
-aplicacion"""
+"""
 Aplicación de Registro Clínico
 Python 3.11 | Tkinter | Windows 11
 Carga padrón desde Excel, gestiona 30 filas, calcula IMC, colorea diagnósticos y exporta a Excel/PDF
